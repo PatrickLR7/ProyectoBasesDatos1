@@ -1,0 +1,60 @@
+c:\users\b40569\documents\visual studio 2015\Projects\ProyectoBasesDatos1\ProyectoBasesDatos1\bin\Debug\ProyectoBasesDatos1.exe.config
+F:\UCR\BasesDatos1\ProyectoBasesDatos1\ProyectoBasesDatos1\obj\Debug\ProyectoBasesDatos1.csprojResolveAssemblyReference.cache
+F:\UCR\BasesDatos1\ProyectoBasesDatos1\ProyectoBasesDatos1\obj\Debug\ProyectoBasesDatos1.Form1.resources
+F:\UCR\BasesDatos1\ProyectoBasesDatos1\ProyectoBasesDatos1\obj\Debug\ProyectoBasesDatos1.Login.resources
+F:\UCR\BasesDatos1\ProyectoBasesDatos1\ProyectoBasesDatos1\obj\Debug\ProyectoBasesDatos1.Properties.Resources.resources
+F:\UCR\BasesDatos1\ProyectoBasesDatos1\ProyectoBasesDatos1\obj\Debug\ProyectoBasesDatos1.csproj.GenerateResource.Cache
+C:\Users\b43834\Desktop\ProyectoBasesDatos1\ProyectoBasesDatos1\bin\Debug\ProyectoBasesDatos1.exe.config
+C:\Users\b43834\Desktop\ProyectoBasesDatos1\ProyectoBasesDatos1\bin\Debug\ProyectoBasesDatos1.exe
+C:\Users\b43834\Desktop\ProyectoBasesDatos1\ProyectoBasesDatos1\bin\Debug\ProyectoBasesDatos1.pdb
+C:\Users\b43834\Desktop\ProyectoBasesDatos1\ProyectoBasesDatos1\obj\Debug\ProyectoBasesDatos1.csprojResolveAssemblyReference.cache
+C:\Users\b43834\Desktop\ProyectoBasesDatos1\ProyectoBasesDatos1\obj\Debug\ProyectoBasesDatos1.VentanaAdmin.resources
+C:\Users\b43834\Desktop\ProyectoBasesDatos1\ProyectoBasesDatos1\obj\Debug\ProyectoBasesDatos1.Login.resources
+C:\Users\b43834\Desktop\ProyectoBasesDatos1\ProyectoBasesDatos1\obj\Debug\ProyectoBasesDatos1.Properties.Resources.resources
+C:\Users\b43834\Desktop\ProyectoBasesDatos1\ProyectoBasesDatos1\obj\Debug\ProyectoBasesDatos1.csproj.GenerateResource.Cache
+C:\Users\b43834\Desktop\ProyectoBasesDatos1\ProyectoBasesDatos1\obj\Debug\ProyectoBasesDatos1.exe
+C:\Users\b43834\Desktop\ProyectoBasesDatos1\ProyectoBasesDatos1\obj\Debug\ProyectoBasesDatos1.pdb
+C:\Users\Patrick\Documents\Bases de Datos 1\ProyectoBasesDatos1\ProyectoBasesDatos1\bin\Debug\ProyectoBasesDatos1.exe.config
+C:\Users\Patrick\Documents\Bases de Datos 1\ProyectoBasesDatos1\ProyectoBasesDatos1\bin\Debug\ProyectoBasesDatos1.exe
+C:\Users\Patrick\Documents\Bases de Datos 1\ProyectoBasesDatos1\ProyectoBasesDatos1\bin\Debug\ProyectoBasesDatos1.pdb
+C:\Users\Patrick\Documents\Bases de Datos 1\ProyectoBasesDatos1\ProyectoBasesDatos1\obj\Debug\ProyectoBasesDatos1.csprojResolveAssemblyReference.cache
+C:\Users\Patrick\Documents\Bases de Datos 1\ProyectoBasesDatos1\ProyectoBasesDatos1\obj\Debug\ProyectoBasesDatos1.VentanaAdmin.resources
+C:\Users\Patrick\Documents\Bases de Datos 1\ProyectoBasesDatos1\ProyectoBasesDatos1\obj\Debug\ProyectoBasesDatos1.Login.resources
+C:\Users\Patrick\Documents\Bases de Datos 1\ProyectoBasesDatos1\ProyectoBasesDatos1\obj\Debug\ProyectoBasesDatos1.Properties.Resources.resources
+C:\Users\Patrick\Documents\Bases de Datos 1\ProyectoBasesDatos1\ProyectoBasesDatos1\obj\Debug\ProyectoBasesDatos1.csproj.GenerateResource.Cache
+C:\Users\Patrick\Documents\Bases de Datos 1\ProyectoBasesDatos1\ProyectoBasesDatos1\obj\Debug\ProyectoBasesDatos1.exe
+C:\Users\Patrick\Documents\Bases de Datos 1\ProyectoBasesDatos1\ProyectoBasesDatos1\obj\Debug\ProyectoBasesDatos1.pdb
+C:\Users\Jota-PC\Downloads\ProyectoBasesDatos1 (1)\ProyectoBasesDatos1\ProyectoBasesDatos1\obj\Debug\ProyectoBasesDatos1.VentanaAdmin.resources
+C:\Users\Jota-PC\Downloads\ProyectoBasesDatos1 (1)\ProyectoBasesDatos1\ProyectoBasesDatos1\obj\Debug\ProyectoBasesDatos1.Login.resources
+C:\Users\Jota-PC\Downloads\ProyectoBasesDatos1 (1)\ProyectoBasesDatos1\ProyectoBasesDatos1\obj\Debug\ProyectoBasesDatos1.Properties.Resources.resources
+C:\Users\Jota-PC\Downloads\ProyectoBasesDatos1 (1)\ProyectoBasesDatos1\ProyectoBasesDatos1\obj\Debug\ProyectoBasesDatos1.csproj.GenerateResource.Cache
+C:\Users\Jota-PC\Downloads\ProyectoBasesDatos1 (1)\ProyectoBasesDatos1\ProyectoBasesDatos1\bin\Debug\ProyectoBasesDatos1.exe.config
+C:\Users\Jota-PC\Downloads\ProyectoBasesDatos1 (1)\ProyectoBasesDatos1\ProyectoBasesDatos1\bin\Debug\ProyectoBasesDatos1.exe
+C:\Users\Jota-PC\Downloads\ProyectoBasesDatos1 (1)\ProyectoBasesDatos1\ProyectoBasesDatos1\bin\Debug\ProyectoBasesDatos1.pdb
+C:\Users\Jota-PC\Downloads\ProyectoBasesDatos1 (1)\ProyectoBasesDatos1\ProyectoBasesDatos1\obj\Debug\ProyectoBasesDatos1.exe
+C:\Users\Jota-PC\Downloads\ProyectoBasesDatos1 (1)\ProyectoBasesDatos1\ProyectoBasesDatos1\obj\Debug\ProyectoBasesDatos1.pdb
+E:\UCR\BasesDatos1\ProyectoBasesDatos1\ProyectoBasesDatos1\bin\Debug\ProyectoBasesDatos1.exe.config
+E:\UCR\BasesDatos1\ProyectoBasesDatos1\ProyectoBasesDatos1\obj\Debug\ProyectoBasesDatos1.exe
+E:\UCR\BasesDatos1\ProyectoBasesDatos1\ProyectoBasesDatos1\obj\Debug\ProyectoBasesDatos1.pdb
+E:\UCR\BasesDatos1\ProyectoBasesDatos1\ProyectoBasesDatos1\bin\Debug\ProyectoBasesDatos1.exe
+E:\UCR\BasesDatos1\ProyectoBasesDatos1\ProyectoBasesDatos1\bin\Debug\ProyectoBasesDatos1.pdb
+E:\UCR\BasesDatos1\ProyectoBasesDatos1\ProyectoBasesDatos1\obj\Debug\ProyectoBasesDatos1.csprojResolveAssemblyReference.cache
+E:\UCR\BasesDatos1\ProyectoBasesDatos1\ProyectoBasesDatos1\obj\Debug\ProyectoBasesDatos1.VentanaAdmin.resources
+E:\UCR\BasesDatos1\ProyectoBasesDatos1\ProyectoBasesDatos1\obj\Debug\ProyectoBasesDatos1.Login.resources
+E:\UCR\BasesDatos1\ProyectoBasesDatos1\ProyectoBasesDatos1\obj\Debug\ProyectoBasesDatos1.Properties.Resources.resources
+E:\UCR\BasesDatos1\ProyectoBasesDatos1\ProyectoBasesDatos1\obj\Debug\ProyectoBasesDatos1.VentanaBodeguero.resources
+E:\UCR\BasesDatos1\ProyectoBasesDatos1\ProyectoBasesDatos1\obj\Debug\ProyectoBasesDatos1.csproj.GenerateResource.Cache
+G:\UCR\BasesDatos1\ProyectoBasesDatos1\ProyectoBasesDatos1\bin\Debug\ProyectoBasesDatos1.exe.config
+G:\UCR\BasesDatos1\ProyectoBasesDatos1\ProyectoBasesDatos1\obj\Debug\ProyectoBasesDatos1.exe
+G:\UCR\BasesDatos1\ProyectoBasesDatos1\ProyectoBasesDatos1\obj\Debug\ProyectoBasesDatos1.pdb
+G:\UCR\BasesDatos1\ProyectoBasesDatos1\ProyectoBasesDatos1\bin\Debug\ProyectoBasesDatos1.exe
+G:\UCR\BasesDatos1\ProyectoBasesDatos1\ProyectoBasesDatos1\bin\Debug\ProyectoBasesDatos1.pdb
+G:\UCR\BasesDatos1\ProyectoBasesDatos1\ProyectoBasesDatos1\obj\Debug\ProyectoBasesDatos1.csprojResolveAssemblyReference.cache
+G:\UCR\BasesDatos1\ProyectoBasesDatos1\ProyectoBasesDatos1\obj\Debug\ProyectoBasesDatos1.VentanaAdmin.resources
+G:\UCR\BasesDatos1\ProyectoBasesDatos1\ProyectoBasesDatos1\obj\Debug\ProyectoBasesDatos1.Login.resources
+G:\UCR\BasesDatos1\ProyectoBasesDatos1\ProyectoBasesDatos1\obj\Debug\ProyectoBasesDatos1.Properties.Resources.resources
+G:\UCR\BasesDatos1\ProyectoBasesDatos1\ProyectoBasesDatos1\obj\Debug\ProyectoBasesDatos1.VentanaBodeguero.resources
+G:\UCR\BasesDatos1\ProyectoBasesDatos1\ProyectoBasesDatos1\obj\Debug\ProyectoBasesDatos1.csproj.GenerateResource.Cache
+G:\UCR\BasesDatos1\ProyectoBasesDatos1\ProyectoBasesDatos1\obj\Debug\ProyectoBasesDatos1.VentanaCliente.resources
+G:\UCR\BasesDatos1\ProyectoBasesDatos1\ProyectoBasesDatos1\obj\Debug\ProyectoBasesDatos1.VentanaVendedor.resources
+G:\UCR\BasesDatos1\ProyectoBasesDatos1\ProyectoBasesDatos1\obj\Debug\ProyectoBasesDatos1.VentanaCajero.resources

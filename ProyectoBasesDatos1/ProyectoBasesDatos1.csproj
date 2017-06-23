@@ -1,0 +1,171 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="14.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{85F5E954-7A7B-4FD9-A095-470661759C37}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>ProyectoBasesDatos1</RootNamespace>
+    <AssemblyName>ProyectoBasesDatos1</AssemblyName>
+    <TargetFrameworkVersion>v4.5.2</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="AccesoDatos\AccesoBaseDatos.cs" />
+    <Compile Include="AccesoDatos\ClienteDatos.cs" />
+    <Compile Include="AccesoDatos\FacturaDatos.cs" />
+    <Compile Include="AccesoDatos\GarantiaDatos.cs" />
+    <Compile Include="AccesoDatos\InventarioDatos.cs" />
+    <Compile Include="AccesoDatos\ProductoDatos.cs" />
+    <Compile Include="AccesoDatos\UsuarioDatos.cs" />
+    <Compile Include="Entidades\Cliente.cs" />
+    <Compile Include="Entidades\Factura.cs" />
+    <Compile Include="Entidades\Garantia.cs" />
+    <Compile Include="Entidades\Inventario.cs" />
+    <Compile Include="Entidades\Persona.cs" />
+    <Compile Include="Entidades\Producto.cs" />
+    <Compile Include="Entidades\Usuario.cs" />
+    <Compile Include="Servicios\ClienteServicios.cs" />
+    <Compile Include="Servicios\FacturaServicios.cs" />
+    <Compile Include="Servicios\GarantiaServicios.cs" />
+    <Compile Include="Servicios\InventarioServicios.cs" />
+    <Compile Include="Servicios\ProductoServicios.cs" />
+    <Compile Include="tecnologiaDataSet.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>tecnologiaDataSet.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="VentanaAdmin.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="VentanaAdmin.Designer.cs">
+      <DependentUpon>VentanaAdmin.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Login.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Login.Designer.cs">
+      <DependentUpon>Login.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Servicios\UsuarioServicios.cs" />
+    <Compile Include="VentanaBodeguero.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="VentanaBodeguero.Designer.cs">
+      <DependentUpon>VentanaBodeguero.cs</DependentUpon>
+    </Compile>
+    <Compile Include="VentanaCajero.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="VentanaCajero.Designer.cs">
+      <DependentUpon>VentanaCajero.cs</DependentUpon>
+    </Compile>
+    <Compile Include="VentanaCliente.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="VentanaCliente.Designer.cs">
+      <DependentUpon>VentanaCliente.cs</DependentUpon>
+    </Compile>
+    <Compile Include="VentanaVendedor.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="VentanaVendedor.Designer.cs">
+      <DependentUpon>VentanaVendedor.cs</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="VentanaAdmin.resx">
+      <DependentUpon>VentanaAdmin.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Login.resx">
+      <DependentUpon>Login.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="VentanaBodeguero.resx">
+      <DependentUpon>VentanaBodeguero.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="VentanaCajero.resx">
+      <DependentUpon>VentanaCajero.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="VentanaCliente.resx">
+      <DependentUpon>VentanaCliente.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="VentanaVendedor.resx">
+      <DependentUpon>VentanaVendedor.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+    <None Include="tecnologiaDataSet.xsc">
+      <DependentUpon>tecnologiaDataSet.xsd</DependentUpon>
+    </None>
+    <None Include="tecnologiaDataSet.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>tecnologiaDataSet.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="tecnologiaDataSet.xss">
+      <DependentUpon>tecnologiaDataSet.xsd</DependentUpon>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>
