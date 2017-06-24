@@ -1,9 +1,11 @@
-﻿using ProyectoBasesDatos1.Entidades;
+﻿using ProyectoBasesDatos1.AccesoDatos;
+using ProyectoBasesDatos1.Entidades;
 using ProyectoBasesDatos1.Servicios;
 using System;
 using System.Collections.Generic;
 using System.ComponentModel;
 using System.Data;
+using System.Data.SqlClient;
 using System.Drawing;
 using System.Linq;
 using System.Text;
@@ -18,9 +20,12 @@ namespace ProyectoBasesDatos1
         InventarioServicios inventarioServicios = new InventarioServicios();
         ProductoServicios productoServicios = new ProductoServicios();
         ClienteServicios clienteServicios = new ClienteServicios();
+        AccesoBaseDatos ad = new AccesoBaseDatos();
+        SqlConnection conexion1 = new SqlConnection();
         public VentanaAdmin()
         {
             InitializeComponent();
+            conexion1 = ad.obtenerConexion();
         }
 
         private void button1_Click(object sender, EventArgs e)
@@ -76,6 +81,27 @@ namespace ProyectoBasesDatos1
             for (int i = 0; i < listaClientes.Count(); i++)
             {
                 richTextBox1.Text += listaClientes[i].id_cliente + "                    " + listaClientes[i].identificacion + Environment.NewLine;
+            }
+        }
+
+        private void Button5_Click(object sender, EventArgs e)
+        {
+            SqlCommand recuperaProductos = new SqlCommand("select * from Producto;", conexion1);
+            try
+            {
+                dataGridView1.DataSource = null;
+                SqlDataAdapter sda = new SqlDataAdapter();
+                sda.SelectCommand = recuperaProductos;
+                DataTable productosBD = new DataTable();
+                sda.Fill(productosBD);
+                BindingSource bSource1 = new BindingSource();
+
+                bSource1.DataSource = productosBD;
+                dataGridView1.DataSource = bSource1;
+                sda.Update(productosBD);
+            }
+            catch(Exception ex) {
+                MessageBox.Show(ex.Message);
             }
         }
     }
