@@ -44,13 +44,13 @@ namespace ProyectoBasesDatos1
                     }
                     else
                     {
-                        MessageBox.Show("Contraseña incorrecta");
+                        MessageBox.Show("Usuario y/o contraseña incorrectos."); //Contraseña incorrecta
                     }
                 }
             }
             if (!uEncontrado)
             {
-                MessageBox.Show("Usuario incorrecto");
+                MessageBox.Show("Usuario y/o contraseña incorrectos."); //Usuario incorrecto
             }
 
 
@@ -61,7 +61,7 @@ namespace ProyectoBasesDatos1
                     VentanaVendedor vV = new VentanaVendedor();
 
                     vV.Show();
-
+                    vV.AutoScrollPosition = new Point(0, 0);
                     break;
 
                 case 2:

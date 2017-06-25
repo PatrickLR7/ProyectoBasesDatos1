@@ -47,12 +47,17 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="AccesoDatos\AccesoBaseDatos.cs" />
+    <Compile Include="AccesoDatos\Persona_JuridicaDatos.cs" />
+    <Compile Include="AccesoDatos\Persona_FisicaDatos.cs" />
+    <Compile Include="AccesoDatos\PersonaDatos.cs" />
     <Compile Include="AccesoDatos\ClienteDatos.cs" />
     <Compile Include="AccesoDatos\FacturaDatos.cs" />
     <Compile Include="AccesoDatos\GarantiaDatos.cs" />
     <Compile Include="AccesoDatos\InventarioDatos.cs" />
     <Compile Include="AccesoDatos\ProductoDatos.cs" />
     <Compile Include="AccesoDatos\UsuarioDatos.cs" />
+    <Compile Include="Entidades\Persona_Juridica.cs" />
+    <Compile Include="Entidades\Persona_Fisica.cs" />
     <Compile Include="Entidades\Cliente.cs" />
     <Compile Include="Entidades\Factura.cs" />
     <Compile Include="Entidades\Garantia.cs" />
@@ -60,6 +65,9 @@
     <Compile Include="Entidades\Persona.cs" />
     <Compile Include="Entidades\Producto.cs" />
     <Compile Include="Entidades\Usuario.cs" />
+    <Compile Include="Servicios\Persona_JuridicaServicios.cs" />
+    <Compile Include="Servicios\Persona_FisicaServicios.cs" />
+    <Compile Include="Servicios\PersonaServicios.cs" />
     <Compile Include="Servicios\ClienteServicios.cs" />
     <Compile Include="Servicios\FacturaServicios.cs" />
     <Compile Include="Servicios\GarantiaServicios.cs" />
